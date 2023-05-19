@@ -1,0 +1,100 @@
+a {
+  color: black;
+  text-decoration: none;
+}
+body {
+  background: pink;
+  margin: 10px;
+  padding: 20px;
+}
+button {
+  position: relative;
+  right: -150px;
+  top: -40px;
+}
+em {
+  color: blueviolet;
+}
+form {
+  position: relative;
+  bottom: 100px;
+  max-width: 100%;
+  display: inline;
+}
+
+footer {
+  position: relative;
+  bottom: -40px;
+}
+
+ul {
+  list-style: none;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 0;
+}
+
+span {
+  text-decoration: none;
+}
+
+.header {
+  margin-bottom: 100px;
+}
+.digit {
+  font-size: 45px;
+}
+.days-box {
+  font-size: 24px;
+  font-weight: 200px;
+  background: violet;
+  padding: 15px;
+  margin-bottom: 0;
+}
+.span1 {
+  color: blue;
+  font-size: 50px;
+}
+.span1 i {
+  color: black;
+}
+.span2 {
+  font-size: 30px;
+}
+.search-form {
+  position: relative;
+  left: -15px;
+  bottom: -15px;
+}
+
+.temperature {
+  font-size: 20px;
+  position: relative;
+  top: -20px;
+}
+.weather-app {
+  background: skyblue;
+  border: 1px solid black;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.8);
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 1000px;
+  border-radius: 10px;
+}
+#city-input {
+  background: rgb(4, 122, 255);
+  border-radius: 5px;
+  left: 170px;
+  top: 50px;
+}
+#button {
+  background: #ee81ee;
+  border-radius: 5px;
+  font-size: 12px;
+  position: relative;
+  padding: 4px 4px;
+  left: 170px;
+  top: -50px;
+  display: block;
+}
